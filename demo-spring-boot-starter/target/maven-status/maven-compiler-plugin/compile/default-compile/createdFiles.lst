@@ -1,0 +1,4 @@
+com\demo\starter\properties\DemoDBProperties.class
+com\demo\starter\config\DemoDBConfig.class
+META-INF\spring-configuration-metadata.json
+com\demo\starter\service\DemoDBService.class

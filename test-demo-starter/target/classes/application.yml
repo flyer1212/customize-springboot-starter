@@ -1,0 +1,5 @@
+mydb:
+  isopen: true # 手动设置的这个标记，表示打开， 不打开会报错
+  url: http://172.12.12.10/test
+  name: test
+  password: 1234

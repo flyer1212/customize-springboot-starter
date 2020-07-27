@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "mydb",
+      "type": "com.demo.starter.properties.DemoDBProperties",
+      "sourceType": "com.demo.starter.properties.DemoDBProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mydb.name",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.starter.properties.DemoDBProperties"
+    },
+    {
+      "name": "mydb.password",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.starter.properties.DemoDBProperties"
+    },
+    {
+      "name": "mydb.url",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.starter.properties.DemoDBProperties"
+    }
+  ],
+  "hints": []
+}
